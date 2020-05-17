@@ -1,0 +1,10 @@
+Webpack (import/export)
+    Babel
+    Scss
+    EsLint
+    2 Model:
+        - Dev:
+            Dev Server, SourceMaps, EsLint, Not Minifide JS & CSS
+        - Prod:
+            Minifide Code
+Git
